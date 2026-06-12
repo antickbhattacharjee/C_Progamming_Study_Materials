@@ -1,3 +1,4 @@
+#include <stdbool.h>
 #include<stdio.h>
 int main(){
 	char name[20] = "Rupam Adak";
@@ -34,6 +35,7 @@ int main(){
 /*
 Array is a contigious memory location storage
 */
+
 
 
 

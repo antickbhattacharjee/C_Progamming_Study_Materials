@@ -1,3 +1,4 @@
+#include <stdbool.h>
 #include <stdio.h>
 void printTable(int num, int i) {				//int -> 1,2,3
     if (i > 10) {								//char -> a,b,c,d
@@ -17,3 +18,4 @@ int main() {
     
     return 0;
 }
+
