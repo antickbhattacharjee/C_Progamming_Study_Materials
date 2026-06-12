@@ -1,0 +1,22 @@
+Basic File Handling Functions in C
+1. fopen(): Opens a file.
+2. fclose(): Closes the file.
+3. fprintf(): Writes formatted output to a file.
+4. fscanf(): Reads formatted input from a file.
+5. fgetc(): Reads a single character from a file.
+6. fputc(): Writes a single character to a file.
+7. fgets(): Reads a string from a file.
+8. fputs(): Writes a string to a file.
+9. fread(): Binary file operation to read.
+10. fwrite(): Binary file operation to write.
+
+Types of File Modes
+1. "r": Open for reading (file must exist).
+2. "w": Open for writing (creates a new file or truncates existing file).
+3. "a": Open for appending (creates a new file or appends to an existing file).
+4. "r+": Open for reading and writing.
+5. "w+": Open for reading and writing (creates a new file or truncates existing file).
+6. "a+": Open for reading and appending.
+7. "rb": Open for reading binary file.
+8. "wb": Open for writing binary file.
+9. "ab": Open for appending binary file.

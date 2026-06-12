@@ -1,0 +1,13 @@
+() - Parentheses, Use - Function calls and conditions, example - printf("Hi");, if (a > b)
+{} - Curly Braces, Use - To define code blocks, example - int main() { ... }
+[] - Square Brackets, Use - Array declaration and access, example - int arr[5];, arr[2] = 10;
+<> - Angle Brackets, Use - Used with header files (preprocessor), example - #include <stdio.h>
+
+
+
+Integer - int
+character - char
+Float - float
+Double - double
+Boolean - bool
+Void - void
